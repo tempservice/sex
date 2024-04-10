@@ -24,7 +24,7 @@ local SpamChat = function()
 end
 
 local ServerHop = function()
-    queue = queue .. " loadstring(game:HttpGet('https://raw.githubusercontent.com/tempservice/cs/main/main.lua'))()"
+    queue = queue .. " loadstring(game:HttpGet('https://raw.githubusercontent.com/tempservice/sex/main/.lua'))()"
 
     if syn then
         syn.queue_on_teleport(queue)

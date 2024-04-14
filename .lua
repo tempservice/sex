@@ -1,5 +1,7 @@
 repeat task.wait(1) until game:IsLoaded()
 
+task.wait(3)
+
 if getgenv().Loaded ~= nil then return end
 
 getgenv().Loaded = true
